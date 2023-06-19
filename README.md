@@ -10,7 +10,7 @@ Discover the world of stunning scroll animations with this Next.js project! Rebu
 
 ## Links
 
-- [🔗 Visit the live project running here!](https://scroll-animations-with-framer-motion.vercel.app/)
+- [🔗 Visit the live project running here!](https://nextjs-animations-ruddy.vercel.app/)
 - [🥡 CodeSandbox' version](https://projects.codesandbox.io/)
 
 ## Technical specifications ⚡️
